@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ab6531a-e616-4e96-8d44-0a823617a5bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter3/aysnc-demo.js" afterPath="$PROJECT_DIR$/chapter3/aysnc-demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter3/proxy-demo.js" afterPath="$PROJECT_DIR$/chapter3/proxy-demo.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,8 +59,8 @@
       <file leaf-file-name="proxy-demo.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -268,12 +267,12 @@
       <workItem from="1531728190504" duration="1703000" />
       <workItem from="1531787100395" duration="24000" />
       <workItem from="1531804090293" duration="850000" />
-      <workItem from="1531873872128" duration="2265000" />
+      <workItem from="1531873872128" duration="2576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34229000" />
+    <option name="totallyTimeSpent" value="34540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -656,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        <state relative-caret-position="330">
+          <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -37,3 +37,14 @@ const p2 = new Proxy(sum,{
 })
 
 console.log(p2(1,2,3))
+
+//handler.construct
+class Foo {}
+
+const p3 = new Proxy(Foo,{
+    construct(target,args,newTarget){
+        return {arguments:args}//必须返回对象
+    }
+})
+const obj2 = new p3(1,2,3)
+console.log(obj2.arguments)
