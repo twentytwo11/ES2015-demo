@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab6531a-e616-4e96-8d44-0a823617a5bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter3/proxy-demo.js" afterPath="$PROJECT_DIR$/chapter3/proxy-demo.js" />
-    </list>
+    <list default="true" id="9ab6531a-e616-4e96-8d44-0a823617a5bc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,11 +54,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="proxy-demo.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="proxy-demo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy-demo2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy-demo3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -122,6 +140,8 @@
         <option value="$PROJECT_DIR$/chapter3/promise-generator.js" />
         <option value="$PROJECT_DIR$/chapter3/aysnc-demo.js" />
         <option value="$PROJECT_DIR$/chapter3/proxy-demo.js" />
+        <option value="$PROJECT_DIR$/chapter3/proxy-demo2.js" />
+        <option value="$PROJECT_DIR$/chapter3/proxy-demo3.js" />
       </list>
     </option>
   </component>
@@ -221,26 +241,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.proxy-demo.js">
+  <component name="RunManager" selected="Node.js.proxy-demo3.js">
     <configuration name="aysnc-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="aysnc-demo.js" working-dir="$PROJECT_DIR$/chapter3" />
-    <configuration name="generator-demo2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generator-demo2.js" working-dir="$PROJECT_DIR$/chapter3" />
-    <configuration name="generator-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generator-demo.js" working-dir="$PROJECT_DIR$/chapter3" />
     <configuration name="promise-generator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="promise-generator.js" working-dir="$PROJECT_DIR$/chapter3" />
+    <configuration name="proxy-demo2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="proxy-demo2.js" working-dir="$PROJECT_DIR$/chapter3" />
+    <configuration name="proxy-demo3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="proxy-demo3.js" working-dir="$PROJECT_DIR$/chapter3" />
     <configuration name="proxy-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="proxy-demo.js" working-dir="$PROJECT_DIR$/chapter3" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.generator-demo.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.generator-demo2.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.promise-generator.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.aysnc-demo.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.promise-generator.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.aysnc-demo.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.proxy-demo2.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.proxy-demo3.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.aysnc-demo.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.promise-generator.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.generator-demo2.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.generator-demo.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.proxy-demo3.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.proxy-demo2.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.aysnc-demo.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.promise-generator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -267,12 +287,12 @@
       <workItem from="1531728190504" duration="1703000" />
       <workItem from="1531787100395" duration="24000" />
       <workItem from="1531804090293" duration="850000" />
-      <workItem from="1531873872128" duration="2576000" />
+      <workItem from="1531873872128" duration="3356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34540000" />
+    <option name="totallyTimeSpent" value="35320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -309,20 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter3/3.7.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/3.7.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/3.7.3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -657,6 +663,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/proxy-demo3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
           <folding />
         </state>
       </provider>
