@@ -21,30 +21,30 @@ function cc(c1) {
 
 
 
+
+aa(function (zz){
+    //sdkjfsdkhjkdsd
+    console.log(zz)
+    bb(function (uu) {
+        cc(uu);
+    });
+});
+
+
+
+
+
+
+
 //
-// aa(function (zz){
-//     //sdkjfsdkhjkdsd
-//     console.log(zz)
-//     bb(function (uu) {
-//         cc(uu);
-//     });
-// });
-
-
-
-
-
-
-
-
-function dd(opt) {
-    console.log(opt.a1);
-    setTimeout(opt.succ,2000);
-    console.log(opt.a2)
-}
-
-
-dd({a1:1,a2:2,succ:function(){console.log(3)}})
+// function dd(opt) {
+//     console.log(opt.a1);
+//     setTimeout(opt.succ,2000);
+//     console.log(opt.a2)
+// }
+//
+//
+// dd({a1:1,a2:2,succ:function(){console.log(3)}})
 
 
 
